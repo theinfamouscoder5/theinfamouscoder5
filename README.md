@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 ## About Me
 
-I'm a passionate developer with a love for coding and creating innovative solutions. Whether it's web applications, backend services, or open-source contributions, I enjoy tackling new challenges and learning new technologies.
+I'm a developer with a love for coding and creating innovative solutions. Currently working on an online gaming site! (Thanks Leaning Tech)
 
 - 👀 I’m interested in web & app development
 - 🌱 I’m currently learning **Lua**
