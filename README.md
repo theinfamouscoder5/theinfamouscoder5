@@ -3,21 +3,21 @@ theinfamouscoder5/theinfamouscoder5 is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-## **Howdy**, I’m **Cody**!
+## **Hey**, I’m **Cody**!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=theinfamouscoder5&color=blueviolet)
 
 ## About Me
 
-I'm a developer with a love for coding and creating innovative solutions. Currently working on an online gaming site! (Thanks Leaning Tech)
+Hey, I'm Cody. I'm a web developer and created Cody's Shack :)
 
-- 👀 I’m interested in web & app development
-- 🌱 I’m currently learning **Lua**
-- 📫 You can reach me by sending me a **DM on Discord** (@theinfamouscoder) or making an **issue on this repository**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I'm heavily interested in aviation and have flown a **Cessna 182**
+Here's some cool facts of mine:
+- I'm a huge coaster enthusiast
+- I'm also a huge aviation enthusiast, and have flown a C182
+- Guess what? I'm also a huge boating enthusiast and Key West Boats are great
+- DM me on Discord if you need anything @ theinfamouscoder (you gotta send me a friend request first)
 
-### My Coding, Programming, and Scripting Languages (and markup)
+### Languages
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
@@ -29,13 +29,13 @@ I'm a developer with a love for coding and creating innovative solutions. Curren
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
-### Frameworks & Runtime Enviroments I Use
+### Frameworks / Runtime Environments
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 
-### Tools I Use
+### Tools
 
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#)
@@ -56,9 +56,10 @@ I'm a developer with a love for coding and creating innovative solutions. Curren
 
 Here are a few projects I've worked on:
 
-- [**Cody's Shack**](https://codys-shack-private.onrender.com/) - An online gaming platform (still HEAVILY in development)
+- **Cody's Shack** - An online gaming platform using v86
+- **Cody's Music** - Small little offline music player
 
 ## Connect with Me
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/mgvMCtw5)
-[![Personal Website](https://img.shields.io/badge/-Website-333?style=flat&logo=google-chrome)](https://cody.is-a.dev)
+[![About Me](https://img.shields.io/badge/-Website-333?style=flat&logo=google-chrome)](https://cody.is-a.dev)
