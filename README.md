@@ -56,7 +56,7 @@ Here's some cool facts of mine:
 
 Here are a few projects I've worked on:
 
-- **Cody's Shack** - An online gaming platform using v86
+- **Cody's Shack** - An online gaming platform 
 - **Cody's Music** - Small little offline music player
 
 ## Connect with Me
