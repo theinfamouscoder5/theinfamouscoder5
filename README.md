@@ -14,10 +14,12 @@ Hey, I'm Cody. I'm a web developer and created Cody's Shack :)
 Here's some cool facts of mine:
 - I'm a huge coaster enthusiast
 - I'm also a huge aviation enthusiast, and have flown a C182
-- Guess what? I'm also a huge boating enthusiast and Key West Boats are great
+- Guess what? I'm also a huge boating enthusiast!
 - DM me on Discord if you need anything @ theinfamouscoder (you gotta send me a friend request first)
 
-### Languages
+
+
+### Everything I use.. it's a lot haha
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
@@ -28,15 +30,9 @@ Here's some cool facts of mine:
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-
-### Frameworks / Runtime Environments
-
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
-
-### Tools
-
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
@@ -44,22 +40,16 @@ Here's some cool facts of mine:
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theinfamouscoder5&show_icons=true&theme=radical)
-
-## Top Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theinfamouscoder5&layout=compact&theme=radical)
 
-## Projects
+### Projects
 
 Here are a few projects I've worked on:
 
-- **Cody's Shack** - An online gaming platform 
-- **Cody's Music** - Small little offline music player
+- **Cody's Shack** - an online gaming platform 
+- **Cody's Shack Legacy** - a small game site built off 3kh0 lite
 
-## Connect with Me
+### Connect with Me
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/mgvMCtw5)
-[![About Me](https://img.shields.io/badge/-Website-333?style=flat&logo=google-chrome)](https://cody.is-a.dev)
+- [Website](https://cody.is-a.dev)
+- Discord @ theinfamouscoder (you gotta send me a friend request first)
