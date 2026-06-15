@@ -3,21 +3,19 @@ theinfamouscoder5/theinfamouscoder5 is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-## **Hey**, I’m **Cody**!
+## Hi, I’m Cody
 
 ![Profile Views](https://komarev.com/ghpvc/?username=theinfamouscoder5&color=blueviolet)
 
 ## About Me
 
-Hey, I'm Cody. I'm a web developer and created Cody's Shack :)
+I'm a web developer and created Cody's Shack :)
 
 Here's some cool facts of mine:
 - I'm a huge coaster enthusiast
 - I'm also a huge aviation enthusiast, and have flown a C182
 - Guess what? I'm also a huge boating enthusiast!
 - DM me on Discord if you need anything @ theinfamouscoder (you gotta send me a friend request first)
-
-
 
 ### Everything I use.. it's a lot haha
 
@@ -44,10 +42,10 @@ Here's some cool facts of mine:
 
 ### Projects
 
-Here are a few projects I've worked on:
+Here are a few projects I'm working on:
 
-- **Cody's Shack** - an online gaming platform 
-- **Cody's Shack Legacy** - a small game site built off 3kh0 lite
+- **Cody's Shack** - a unique online gaming platform 
+- **SuperTuxGalaxy** - a 3D platformer adventure game made in Godot
 
 ### Connect with Me
 
