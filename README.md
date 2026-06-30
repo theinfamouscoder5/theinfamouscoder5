@@ -38,8 +38,6 @@ Here's some cool facts of mine:
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theinfamouscoder5&layout=compact&theme=radical)
-
 ### Projects
 
 Here are a few projects I'm working on:
